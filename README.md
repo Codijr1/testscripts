@@ -1,4 +1,4 @@
 # testscripts
- Python Testing
+Recipe Book
 
-This Python script initializes two variables and assigns them '2' and '3' respectively. The script computes the sum of the two variables, and then assigns the result to variable 'c'. The result is then printed.
+This project is a simple recipe book that stores and displays various recipes. Each recipe includes the name of the dish, the cooking time, and a list of ingredients. The recipes are stored in a list of dictionaries and include information about its name, ingredients, and cooking time.
