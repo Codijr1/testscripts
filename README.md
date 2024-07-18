@@ -10,5 +10,5 @@ Each recipe dictionary has clear and descriptive keys, making it easy to underst
 A list of dictionaries allows the recipe book to grow easily. New recipes can be added without modifying the existing structure.
 
 ### Malleability
-Dictionaries are flexible and can be easily modified. If additional information needs to be included in a recipe, new key-value pairs can be added without affecting other recipes.
+Dictionaries are flexible and can be easily modified. If additional information needs to be included or modified in a recipe, new key-value pairs can be added without disturbing other recipes.
 
