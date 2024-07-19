@@ -31,9 +31,9 @@ for i in range(n):
     recipe = take_recipe()
     recipes_list.append(recipe)
 
-    #printing results
+#printing results
 
-    print("\nRecipes:")
+print("\nRecipes:")
 for recipe in recipes_list:
     print(f"\nRecipe: {recipe['name']}")
     print(f"Cooking time: {recipe['cooking_time']} minutes")
