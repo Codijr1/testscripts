@@ -4,6 +4,7 @@
 recipes_list = []
 ingredients_list = []
 
+
 def take_recipe():
     name = input("Name of dish: ")
     cooking_time = int(input("Cooking time in minutes: "))
@@ -18,6 +19,7 @@ def take_recipe():
             break
         ingredients.append(ingredient)
 
+#creating the dictionary
     recipe = {
         'name': name,
         'cooking_time': cooking_time,

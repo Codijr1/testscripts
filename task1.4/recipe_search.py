@@ -32,7 +32,7 @@ def search_ingredient(data):
             display_recipe(recipe)
 
 #request filename
-filename = input("Enter the filename of your recipe")
+filename = input("Enter the filename of your recipe: ")
 
 #load recipe from bin file
 try: 
